@@ -1,7 +1,7 @@
 CustomComputerCase
 ==================
 
-#Setup 
+##Setup 
 
 The link to the issues page:
 
@@ -33,7 +33,7 @@ Once repo is cloned, right click and import projects
 
 Import existing projects
 
-#Modeling
+##Modeling
 
 Right click on file
 
@@ -50,13 +50,13 @@ In Openscad:
 View>Hide Editor should be checked
 Design>Automatic reload and compile should be checked
 
-#Making changes
+##Making changes
 
 As you make changes you right click on the project and commit
 
 Messages should be 60 chars long for a title, then a new line then a message with complete sentences. 
 
-#Freecad
+##Freecad
 
 In the moduel drop down, select Scetcher
 
@@ -64,6 +64,6 @@ click on the project, select new scetch, and place it on the xy plane.
 
 hit save and verify that the little Asterisk near the file name to verify that it is saved
 
-#Eclipse stuff
+##Eclipse stuff
 
 Hit F5 after doing work in Freecad to refresh Eclipse
